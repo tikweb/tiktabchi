@@ -28,7 +28,7 @@ sudo apt-get install python-redis
 
 sudo pip install pyTelegramBotAPI
 
-sudo pip install pyTelegramBotAPI —upgrade
+sudo pip install pyTelegramBotAPI --upgrade
 
 sudo apt-get update
 
