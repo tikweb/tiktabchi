@@ -1,5 +1,5 @@
 ﻿tikTabchi
-
+<div dir="rtl">
 ربات پیشرفته تبلیغاتی چی
 
 
@@ -40,6 +40,6 @@ screen python tabchi.py
 خط 31 و 39 و 47 و 59 هم ایدی Sudo
 را قرار دهید
 
-
+</div>
 
 * * *
