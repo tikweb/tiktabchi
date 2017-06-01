@@ -34,12 +34,12 @@ cd $HOME
 git clone https://github.com/tikweb/tiktabchi.git
 cd tiktabchi && cd bot
 screen python tabchi.py
-
+```
 حالا فایل tabchi.py را ویرایش کنید 
 خط 18 توکن ربات
 خط 31 و 39 و 47 و 59 هم ایدی Sudo
 را قرار دهید
-```
+
 
 
 * * *
